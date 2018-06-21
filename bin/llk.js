@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * @Author: cuiweiqiang
  * @Date:   2018-06-21 16:55:55
