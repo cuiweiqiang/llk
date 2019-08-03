@@ -1,6 +1,6 @@
 {
   "name": "llk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a Lazy Lanucher for Koa",
   "main": "lib/init_command.js",
   "scripts": {
